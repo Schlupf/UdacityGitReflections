@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	Git legt die nötigen Dateien an und beginnt, das Repository zu
+	"beobachten".
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+
+	Man kann Änderungen ausprobieren, bevor sie tatsächlich ins Repository
+	gelangen. 
