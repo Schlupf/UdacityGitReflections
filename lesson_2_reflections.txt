@@ -8,3 +8,9 @@ repository? What value do you think it offers?
 
 	Man kann Änderungen ausprobieren, bevor sie tatsächlich ins Repository
 	gelangen. 
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+	Man wählt nur die Änderungen in die Staging Area, die zu einer 
+	logischen Einheit gehören.
