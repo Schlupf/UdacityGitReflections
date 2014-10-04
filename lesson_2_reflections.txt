@@ -24,3 +24,9 @@ How do the diagrams help you visualize the branch structure?
 
 	Die Frage ist dumm, denn es ist ja gerade der Sinn, eines Diagramms
 	etwas zu visualisieren.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+	Das Ergebnis ist eine Zusammenführung mit allen Änderungen aus beiden 
+	Branches. Ein Zweig wird quasi wieder mit dem Stamm verwoben.
