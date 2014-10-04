@@ -14,3 +14,13 @@ change?
 
 	Man wählt nur die Änderungen in die Staging Area, die zu einer 
 	logischen Einheit gehören.
+
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
+
+	Wenn man verschiedene funtioniernde Versionen vergleichen will.
+
+How do the diagrams help you visualize the branch structure?
+
+	Die Frage ist dumm, denn es ist ja gerade der Sinn, eines Diagramms
+	etwas zu visualisieren.
