@@ -30,3 +30,10 @@ the diagram the way we do?
 
 	Das Ergebnis ist eine Zusammenführung mit allen Änderungen aus beiden 
 	Branches. Ein Zweig wird quasi wieder mit dem Stamm verwoben.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+
+	Pro: Es geht schnell und ist komfortabel und relativ clever.
+	Con: Bei manuellen Merge hat man wirklich alles besser unter
+	Kontrolle.
