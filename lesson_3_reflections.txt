@@ -28,4 +28,6 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Immer. Man möchte immer einen funktionierenden Master-Branch haben, daher
+    macht es immer Sinn Änderungen zuert in eigenen Branches einzuführen und
+    zu testen.
